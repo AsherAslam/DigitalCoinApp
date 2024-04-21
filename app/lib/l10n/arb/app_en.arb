@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "goodLuck": "Good Luck!",
+  "@goodLuck": {
+    "description": "App bar title"
+  },
+  "checkTheReadme": "Check the README.md",
+  "@checkTheReadme": {
+    "description": "Check the README text"
+  },
+  "headerWellcomeText": "Wellcome",
+  "@headerWellcomeText": {
+    "description": "Wellcome"
+  }
+}
